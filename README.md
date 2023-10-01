@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm EL-HAJJAMY Safae</h1>
-<h3 align="center">👨‍💻 Fresh Graduate | Field Software Engineer | Eager Learner</h3>
+<h1 align="left">Hi 👋, I'm EL-HAJJAMY Safae</h1>
+<h3 align="left">👨‍💻 Fresh Graduate | Field Software Engineer | Eager Learner</h3>
 <p>🎓 Recently graduated and now diving headfirst into the world of software engineering. 🚀 Currently honing my skills at Intelcia, where I'm turning code into solutions. Passionate about creating efficient and elegant software.</p> <br/>
 <p>📚 Lifelong learner, code explorer, and problem-solving ninja! 💪 Ready to conquer new challenges and craft seamless solutions.</p>
 
